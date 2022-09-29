@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CryptAdvance/CryptAdvance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 This is a Terminal based software made for Cyber Security Professionals as well as Students who are new to Cyber Security. This tool is a combination of Port Scanner, Keylogger, and many more such things.
 It just needs Python and some of its dependencies and we are good to go!!
