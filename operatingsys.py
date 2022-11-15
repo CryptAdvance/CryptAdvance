@@ -16,7 +16,7 @@ class OperatingSys():
 				os.system('clear')
 		r=1
 		while r==1:
-			a=input("Do you want to know your Operating System (Y/N)")
+			a=input("Know Your Operating System\nDo you want to know your Operating System (Y/N)")
 			if(a=='Y'):
 				import platform
 				my_os=platform.system()

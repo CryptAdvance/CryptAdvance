@@ -12,7 +12,7 @@ class WebCrawler():
                     soup=BeautifulSoup(plain_code)
                     for item_name in soup.findAll('div'):
                         print(item_name.string)
-                url=input("Enter the URL including the http/https:\n")
+                url=input("Web Crawler\nEnter the URL including the http/https:\n")
                 source_code=requests.get(url)
                 plain_code=source_code.text
                 soup=BeautifulSoup(plain_code)

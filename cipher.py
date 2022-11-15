@@ -3,7 +3,7 @@ class Cipher():
     def Cypher(self,input_from_user):
         r=1
         while r==1:
-            a=input("Do want to break some ciphers: (Y/N)")
+            a=input("Break Ciphers \nDo want to break some ciphers: (Y/N)")
             if a == 'Y':
                 print("Which kind of Cipher you want to use :")
                 print("1. Caesar Cipher")

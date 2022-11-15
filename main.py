@@ -65,7 +65,6 @@ Y8b  d8 88 `88.    88    88         88    88   88 88  .8D  `8bd8'  88   88 88  V
     if input_from_user==5:
         obj=portscanner.PortScanner()
         obj.POrtScanner(input_from_user)
-
     else:
 
         r = 2

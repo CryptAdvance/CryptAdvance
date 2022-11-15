@@ -1,0 +1,6 @@
+platform
+base64
+pynput
+socket
+requests
+bs4
